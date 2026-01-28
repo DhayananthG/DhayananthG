@@ -85,7 +85,6 @@ I’m interested in collaborating on:
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhayananthG&theme=dark&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhayananthG&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhayananthG&theme=dark&hide_border=false&layout=compact)
 
 ---
